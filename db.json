@@ -1,0 +1,13 @@
+{
+  "posts": {
+    "resp": "ok",
+    "data": [
+      {
+        "name": "hola"
+      },
+      {
+        "name": "adios"
+      }
+    ]
+  }
+}
